@@ -10,3 +10,6 @@ Version: 1.0
 .et_pb_text_2 > div:nth-child(1) > p:nth-child(1){
     font-size: 2rem;
 }
+.mfp-title{
+    display: none;
+}
