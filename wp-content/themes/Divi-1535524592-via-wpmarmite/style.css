@@ -6,13 +6,3 @@ Author URI: https://wpmarmite.com
 Template: Divi
 Version: 1.0
 */
-
-.mfp-title{
-    display: none;
-}
-.et_pb_blurb_content{
-    padding-top: 25px;
-}
-.et_pb_text_2 > div:nth-child(1){
-    font-size: 2rem;
-}
